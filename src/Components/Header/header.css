@@ -1,0 +1,13 @@
+.header-links {
+    text-decoration: none;
+    color: black;
+    padding: 12px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+a.header-links.active {
+    background: #26a9e0;
+    border-radius: 10px;
+    color: #fff;
+}

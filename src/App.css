@@ -1,0 +1,8 @@
+.main-page-background{
+  background-color: aliceblue;
+}
+button.btn.btn-primary-color {
+  background: rgb(38, 169, 224);
+  color: #fff;
+  font-weight: 500;
+}
